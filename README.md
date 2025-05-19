@@ -2,16 +2,16 @@
 <h3>A passionate student of video games, dreaming of creating amazing games.</h3>
 
 <p>
-  🎮 Game engine enthusiast, creative coder, and tech explorer <br>
+  🎮 Game engine enthusiast, creative coder, and tech explore. <br>
   🧠 Currently studying at <strong>EFREI</strong> with a focus on virtual reality. <br>
-  🌱 Always looking to learn new tools, mechanics, and techniques <br>
+  🌱 Always looking to learn new tools, mechanics, and techniques. <br>
 </p>
 
 ---
 
 <h3 align="left">🔗 Check out my work:</h3>
 <p align="left">
-  🕹️ <a href="https://petite-graine.itch.io/" target="_blank" rel="noreferrer">My Itch.io page</a> – where I share prototypes, game jam entries, and personal projects!
+  🕹️ <a href="https://petite-graine.itch.io/" target="_blank" rel="noreferrer">My Itch.io page</a> – where I share prototypes, game jam entries, and personal projects !
 </p>
 
 ---
@@ -28,5 +28,5 @@
 ---
 
 <p align="center">
-  Thanks for stopping by! 🚀
+  Thanks for stopping by ! 🚀
 </p>
