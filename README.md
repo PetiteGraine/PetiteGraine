@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Petite Graine</h1>
-<h3>A passionate student of video games, dreaming of creating amazing games.</h3>
+<h3>An engineering student with a passion for video games, who dreams of creating incredible games.</h3>
 
 <p>
   🎮 Game engine enthusiast, creative coder, and tech explore. <br>
