@@ -1,10 +1,14 @@
-<h1 align="center">👋 Hi, I'm Petite Graine</h1>
-<h3>An engineering student with a passion for video games, who dreams of creating incredible games.</h3>
+<h1 align="center">👋 Hi, I'm Rémi Mathivanan</h1>
+<h3 align="center">Engineering student passionate about interactive technologies and video game creation</h3>
+
+<p align="center">
+  🎮 Game engine enthusiast | 💡 Creative coder | 🚀 Tech explorer  
+</p>
 
 <p>
-  🎮 Game engine enthusiast, creative coder, and tech explore. <br>
-  🧠 Currently studying at <strong>EFREI</strong> with a focus on virtual reality. <br>
-  🌱 Always looking to learn new tools, mechanics, and techniques. <br>
+  🧠 Currently studying at <strong>EFREI Paris</strong>, specializing in <strong>Virtual Reality and Immersive Technologies</strong>. <br>
+  🌱 Always exploring new tools, engines, and design techniques to push the boundaries of interactive experiences. <br>
+  🎯 Aspiring to create meaningful, technically innovative games and simulations.
 </p>
 
 ---
