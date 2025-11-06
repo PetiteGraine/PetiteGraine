@@ -8,7 +8,7 @@
 <p>
   🧠 Currently studying at <strong>EFREI Paris</strong>, specializing in <strong>Virtual Reality and Immersive Technologies</strong>. <br>
   🌱 Always exploring new tools, engines, and design techniques to push the boundaries of interactive experiences. <br>
-  🎯 Aspiring to create meaningful, technically innovative games and simulations.
+  🎯 Aspiring to create meaningful, technically innovative projects and simulations.
 </p>
 
 ---
