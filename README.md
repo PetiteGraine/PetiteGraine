@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Rémi Mathivanan</h1>
-<h3 align="center">Engineering student passionate about interactive technologies and video game creation</h3>
+<h3 align="center">A developer passionate about interactive technologies and video game creation</h3>
 
 <p align="center">
   🎮 Game engine enthusiast | 💡 Creative coder | 🚀 Tech explorer  
